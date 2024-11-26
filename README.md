@@ -10,7 +10,7 @@
 
 - 目前MIUI主题、ColorOS主题[《莫奈线条》](https://activity-cdo.heytapimage.com/cdo-activity/static/themeDetailShare/dist/themedetail/index.html?masterId=6526425&region=CN&type=0)已上架，其他定制系统的主题可自行搜索《胖胖和哒哒》，全平台同名.
 
-图标绘制：[@胖胖和哒哒](http://www.coolapk.com/u/1066529
+图标绘制：[@胖胖和哒哒](http://www.coolapk.com/u/1066529)
 
 GitHub发布：[@oddo我透](http://www.coolapk.com/u/30133340)
 
