@@ -1,6 +1,6 @@
-# 莫奈取色图标包
+# 莫奈线条图标包
 
-- 莫奈取色图标包由酷安[@胖胖和哒哒](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wPWWmmFCMz6UvoN-XlazfK-ZrIq-NjsQ&authKey=CSptHTKnPLnyxgud9fZFjt%2BR9qKgc4aYABke1OFr0DgMrcr90qgPb4LhQaeHL%2FdQ&noverify=0&group_code=697097375)授权搬运。
+- 莫奈线条图标包由酷安[@胖胖和哒哒](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wPWWmmFCMz6UvoN-XlazfK-ZrIq-NjsQ&authKey=CSptHTKnPLnyxgud9fZFjt%2BR9qKgc4aYABke1OFr0DgMrcr90qgPb4LhQaeHL%2FdQ&noverify=0&group_code=697097375)授权搬运。
 
 - 目前图标数量2800+ 不定时更新
 
