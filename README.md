@@ -13,4 +13,4 @@
 图标绘制：[@胖胖和哒哒](http://www.coolapk.com/u/1066529
 GitHub发布：[@oddo我透](http://www.coolapk.com/u/30133340)
 
-– 不定时搬运，可自行[加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wPWWmmFCMz6UvoN-XlazfK-ZrIq-NjsQ&authKey=CSptHTKnPLnyxgud9fZFjt%2BR9qKgc4aYABke1OFr0DgMrcr90qgPb4LhQaeHL%2FdQ&noverify=0&group_code=697097375)更新
+- 不定时搬运，可自行[加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wPWWmmFCMz6UvoN-XlazfK-ZrIq-NjsQ&authKey=CSptHTKnPLnyxgud9fZFjt%2BR9qKgc4aYABke1OFr0DgMrcr90qgPb4LhQaeHL%2FdQ&noverify=0&group_code=697097375)更新
