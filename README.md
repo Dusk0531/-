@@ -1,3 +1,5 @@
+免责说明⚠️本人仅仅将GitHub作为发布平台，作者并无意向进行开源，请不要认为发布在GitHub上就必须开源。
+Disclaimer: ⚠️I only use GitHub as a publishing platform, and the author has no intention to open source. Please don't think that publishing on GitHub must be open source.
 # 莫奈线条图标包
 - [浅色模式预览](https://github.com/user-attachments/assets/74a998e6-bd1c-411e-8637-665555d88f98)
 - [深色模式预览](https://github.com/user-attachments/assets/5af29097-ff17-47e2-9e8b-c57ed7b7a363)
