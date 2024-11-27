@@ -1,4 +1,8 @@
 # 莫奈线条图标包
+- 浅色模式
+![1000007801](https://github.com/user-attachments/assets/74a998e6-bd1c-411e-8637-665555d88f98)
+- 深色模式
+- ![1000007802](https://github.com/user-attachments/assets/5af29097-ff17-47e2-9e8b-c57ed7b7a363)
 
 - 莫奈线条图标包由酷安[@胖胖和哒哒](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wPWWmmFCMz6UvoN-XlazfK-ZrIq-NjsQ&authKey=CSptHTKnPLnyxgud9fZFjt%2BR9qKgc4aYABke1OFr0DgMrcr90qgPb4LhQaeHL%2FdQ&noverify=0&group_code=697097375)授权搬运。
 
