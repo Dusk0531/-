@@ -1,9 +1,6 @@
 免责说明⚠️本人仅仅将GitHub作为发布平台，作者并无意向进行开源，请不要认为发布在GitHub上就必须开源。
 Disclaimer: ⚠️I only use GitHub as a publishing platform, and the author has no intention to open source. Please don't think that publishing on GitHub must be open source.
-# 莫奈线条图标包
-- [浅色模式预览](https://github.com/user-attachments/assets/74a998e6-bd1c-411e-8637-665555d88f98)
-- [深色模式预览](https://github.com/user-attachments/assets/5af29097-ff17-47e2-9e8b-c57ed7b7a363)
-
+# 纯净图标包
 - 该图标包由作者[@胖胖和哒哒](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wPWWmmFCMz6UvoN-XlazfK-ZrIq-NjsQ&authKey=CSptHTKnPLnyxgud9fZFjt%2BR9qKgc4aYABke1OFr0DgMrcr90qgPb4LhQaeHL%2FdQ&noverify=0&group_code=697097375)授权搬运。
 
 - 目前图标数量2800+ 不定时更新
